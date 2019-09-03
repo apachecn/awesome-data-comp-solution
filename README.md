@@ -553,45 +553,39 @@
 
 ## 其它资源列表
 
-1.  数据比赛资讯: https://github.com/iphysresearch/DataSciComp
+1.  [DataSciComp 数据比赛资讯](https://github.com/iphysresearch/DataSciComp)
 
-1.  ApacheCN 的kaggle资料链接: https://github.com/apachecn/kaggle
+1.  [ApacheCN 的kaggle资料链接](https://github.com/apachecn/kaggle)
 
-2.  Kaggle top方案整理: https://github.com/EliotAndres/kaggle-past-solutions
+2.  [Kaggle top方案整理](https://github.com/EliotAndres/kaggle-past-solutions)
 
 3.  [Data competition Top Solution 数据竞赛Top解决方案开源整理](https://github.com/Smilexuhc/Data-Competition-TopSolution)
 
-1.  介绍featexp 一个帮助理解特征的工具包 http://www.sohu.com/a/273552971_129720
+1.  [介绍featexp 一个帮助理解特征的工具包](http://www.sohu.com/a/273552971_129720)
 
-1.  Ask Me Anything session with a Kaggle Grandmaster Vladimir I. Iglovikov 
+1.  [Ask Me Anything session with a Kaggle Grandmaster Vladimir I. Iglovikov](http://t.cn/Eww4nnu) [PDF](https://pan.baidu.com/s/1XkFwko_YrI5TfjjIai7ONQ)
 
-    PDF: https://pan.baidu.com/s/1XkFwko_YrI5TfjjIai7ONQ
+1.  [Owen Zhang访谈: Kaggle制胜的秘密](http://t.cn/RBzPcyg)
 
-1.  Owen Zhang访谈: Kaggle制胜的秘密 http://t.cn/RBzPcyg
+1.  [How to Compete for Zillow Prize at Kaggle](https://www.datasciencecentral.com/profiles/blogs/how-to-compete-for-zillow-prize-at-kaggle)
 
-1.  How to Compete for Zillow Prize at Kaggle https://www.datasciencecentral.com/profiles/blogs/how-to-compete-for-zillow-prize-at-kaggle
+1.  [Profiling Top Kagglers: Martin Henze](http://blog.kaggle.com/2018/06/19/tales-from-my-first-year-inside-the-head-of-a-recent-kaggle-addict/)
 
-1.  Profiling Top Kagglers: Martin Henze http://blog.kaggle.com/2018/06/19/tales-from-my-first-year-inside-the-head-of-a-recent-kaggle-addict/
+1.  [Kaggle数据科学词汇表](http://t.cn/Rdx72Cn)
 
-1.  Kaggle数据科学词汇表 http://t.cn/Rdx72Cn
+1.  [Kaggle比赛优胜方案汇总](http://t.cn/Rdkj3Co)
 
-1.  Kaggle比赛优胜方案汇总 http://t.cn/Rdkj3Co
+1.  [Kaggle比赛实战教程(Pandas, Matplotlib, XGBoost/Colab)](http://t.cn/ReIJOX0)
 
-1.  Kaggle比赛实战教程(Pandas, Matplotlib, XGBoost/Colab) http://t.cn/ReIJOX0
+1.  [llSourcell/kaggle_challenge](http://t.cn/ReIJOXK)
 
-1.  http://t.cn/ReIJOXK
-
-1.  Kaggle看照片猜相机比赛心得分享 http://t.cn/Rkz5Q9y 
-
-    pdf:http://t.cn/Rkz5Q9L
+1.  [Kaggle看照片猜相机比赛心得分享](http://t.cn/Rkz5Q9y) [PDF](http://t.cn/Rkz5Q9L)
 
 1.  Kaggle在线分类广告需求预测比赛优胜方案分享 http://t.cn/RFpQg9O
 
-1.  Kaggle | Winner Interview http://blog.kaggle.com/2018/09/14/pei-lien-chou/
+1.  [Kaggle | Winner Interview ](http://blog.kaggle.com/2018/09/14/pei-lien-chou/)
 
-1.  Ask Me Anything session with a Kaggle Grandmaster Vladimir I. Iglovikov http://t.cn/Eww4nnu
-
-1.  2018 NIPS视觉对抗挑战总结 http://t.cn/EAMqw0P
+1.  [2018 NIPS视觉对抗挑战总结](http://t.cn/EAMqw0P)
 
     
 ## 大佬的Git
