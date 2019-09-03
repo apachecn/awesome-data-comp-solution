@@ -603,6 +603,7 @@
 5.  金老师的知乎: https://zhuanlan.zhihu.com/jlbookworm 
 6.  渣大: https://github.com/nzc 
 7.  郭大: https://github.com/guoday 
+8.  Cortex Lab: https://github.com/CortexFoundation
 
 ## 贡献者
 
