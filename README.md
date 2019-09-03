@@ -581,7 +581,7 @@
 
 1.  [Kaggle看照片猜相机比赛心得分享](http://t.cn/Rkz5Q9y) [PDF](http://t.cn/Rkz5Q9L)
 
-1.  Kaggle在线分类广告需求预测比赛优胜方案分享 http://t.cn/RFpQg9O
+1.  [Kaggle在线分类广告需求预测比赛优胜方案分享](http://t.cn/RFpQg9O)
 
 1.  [Kaggle | Winner Interview ](http://blog.kaggle.com/2018/09/14/pei-lien-chou/)
 
