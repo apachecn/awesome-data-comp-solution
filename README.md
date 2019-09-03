@@ -15,7 +15,8 @@
     EDA: http://lambda-xmu.club/2018/08/25/2019CCF-Work-Piece-EDA/
 
     Baseline 0.6777: https://github.com/destiny19960207/CCF_BDCI2019_discrete-manufacturing
-    Baseline 0.644: <src/CCF2019-discrete-manufacturing/644baseline.py>
+    
+    Baseline 0.644: [CCF2019-discrete-manufacturing/644baseline.py](src/CCF2019-discrete-manufacturing/644baseline.py)
 
 1.  2018科大讯飞AI营销算法大赛
 
