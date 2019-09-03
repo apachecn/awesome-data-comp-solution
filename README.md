@@ -22,9 +22,9 @@
 
     Rank1: https://zhuanlan.zhihu.com/p/47807544
     
-    Rank2：https://github.com/infturing/kdxf
+    Rank2: https://github.com/infturing/kdxf
     
-    Rank21：https://github.com/Michaelhuazhang/-AI21-
+    Rank21: https://github.com/Michaelhuazhang/-AI21-
 
 2.  2018 IJCAI 阿里妈妈搜索广告转化预测
 
@@ -92,7 +92,7 @@
 
 4.  2018高校大数据挑战赛-快手活跃用户预测
 
-    Rank1：
+    Rank1: 
     
     +   https://github.com/drop-out/RNN-Active-User-Forecast
     
@@ -110,13 +110,13 @@
     
     Rank20: https://github.com/bigzhao/Kuaishou_2018_rank20th
     
-    Rank28 (初赛 a 榜rank1 b 榜rank2)：
+    Rank28 (初赛 a 榜rank1 b 榜rank2): 
     
     +   https://github.com/YangKing0834131/2018-KUAISHOU-TSINGHUA-Top28-Solutions-
     
     +   https://github.com/FNo0/2018-KUAISHOU-Top28
     
-    Rank35：https://github.com/chizhu/kuaishou2018
+    Rank35: https://github.com/chizhu/kuaishou2018
     
 4.  2018JDATA 用户购买时间预测
 
@@ -144,16 +144,16 @@
     
 8.  2018 CCF-面向电信行业存量用户的智能套餐个性化匹配模型
 
-    Rank1：https://github.com/PPshrimpGo/BDCI2018-ChinauUicom-1st-solution
+    Rank1: https://github.com/PPshrimpGo/BDCI2018-ChinauUicom-1st-solution
 
     
-    Rank2：https://github.com/PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2
+    Rank2: https://github.com/PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2
 
     
-    Rank4：https://github.com/jinchenyu/2018_CCF_BDCI_ChinaUicom_rank4_solution
+    Rank4: https://github.com/jinchenyu/2018_CCF_BDCI_ChinaUicom_rank4_solution
 
     
-    Rank6：https://github.com/ZengHaihong/2018_CCF_BDCI_ChinaUnicom_Package_Match_Rank6
+    Rank6: https://github.com/ZengHaihong/2018_CCF_BDCI_ChinaUnicom_Package_Match_Rank6
 
 8.  2018 CCF-汽车行业用户观点主题及情感识别ASC挑战赛
 
@@ -163,7 +163,7 @@
     
 8.  2017 CCF-商场中精确定位用户所在店铺
 
-    Rank1：https://github.com/drop-out/Tianchi-Wifi-Positioning
+    Rank1: https://github.com/drop-out/Tianchi-Wifi-Positioning
     
 9.  2016 CCF-020优惠券使用预测
 
@@ -247,16 +247,16 @@
     
 1.  2018dc-新网银行杯
 
-    Rank3：https://github.com/Smilexuhc/Xingwangbankcup-top3
+    Rank3: https://github.com/Smilexuhc/Xingwangbankcup-top3
 
     
-    Rank4：https://github.com/TingNie/CreditForecast
+    Rank4: https://github.com/TingNie/CreditForecast
     
 1.  2018 AI Challenger 全球AI挑战赛 - 细粒度用户评论情感分析
 
-    Rank1：https://github.com/chenghuige/wenzheng
+    Rank1: https://github.com/chenghuige/wenzheng
     
-    Rank16：https://github.com/xueyouluo/fsauor2018
+    Rank16: https://github.com/xueyouluo/fsauor2018
     
     Rank17: https://github.com/BigHeartC/Al_challenger_2018_sentiment_analysis
     
@@ -268,11 +268,11 @@
     
 1.  2018 ATEC 蚂蚁金服NLP智能客服比赛
 
-    Rank16：https://github.com/zle1992/atec
+    Rank16: https://github.com/zle1992/atec
     
 1.  2018 ATEC 蚂蚁金服NLP蚂蚁金服金融大脑赛题
 
-    Rank18：https://github.com/ziweipolaris/atec2018-nlp
+    Rank18: https://github.com/ziweipolaris/atec2018-nlp
     
 1.  DataCastle-城市治理大数据应用创意方案赛
 
@@ -330,15 +330,15 @@
 
     Rank1: https://github.com/ShawnyXiao/2018-DC-DataGrand-TextIntelProcess
 
-    Rank2：https://github.com/CortexFoundation/-
+    Rank2: https://github.com/CortexFoundation/-
 
     Rank4: https://github.com/hecongqing/2018-daguan-competition
 
-    Rank8：https://github.com/Rowchen/Text-classifier
+    Rank8: https://github.com/Rowchen/Text-classifier
 
     Rank10: https://github.com/moneyDboat/data_grand 
     
-    Rank11：https://github.com/TianyuZhuuu/DaGuan_TextClassification_Rank11
+    Rank11: https://github.com/TianyuZhuuu/DaGuan_TextClassification_Rank11
 
     Rank18: https://github.com/nlpjoe/daguan-classify-2018
 
@@ -354,7 +354,7 @@
            
     +   https://github.com/LittletreeZou/Question-Pairs-Matching
     
-    Rank16：https://github.com/guoday/PaiPaiDai2018_rank16
+    Rank16: https://github.com/guoday/PaiPaiDai2018_rank16
 
     Rank29: https://github.com/wangjiaxin24/daguan_NLP
 
@@ -368,7 +368,7 @@
 
     Rank2: https://github.com/zake7749/Closer
 
-    Rank12：https://github.com/Leputa/CIKM-AnalytiCup-2018
+    Rank12: https://github.com/Leputa/CIKM-AnalytiCup-2018
 
     Rank18: https://github.com/VincentChen525/Tianchi/tree/master/CIKM%20AnalytiCup%202018
 
@@ -386,27 +386,27 @@
 
 1.  知乎看山杯
 
-    Rank1：https://github.com/chenyuntc/PyTorchText
+    Rank1: https://github.com/chenyuntc/PyTorchText
 
-    Rank2：https://github.com/Magic-Bubble/Zhihu
+    Rank2: https://github.com/Magic-Bubble/Zhihu
 
-    Rank6：https://github.com/yongyehuang/zhihu-text-classification 
+    Rank6: https://github.com/yongyehuang/zhihu-text-classification 
     
-    Rank9：https://github.com/coderSkyChen/zhihu_kanshan_cup_2017
+    Rank9: https://github.com/coderSkyChen/zhihu_kanshan_cup_2017
 
-    Rank21：https://github.com/zhaoyu87/zhihu
+    Rank21: https://github.com/zhaoyu87/zhihu
 
 1.  2018 CCL 客服领域用户意图分类评测
 
-    Rank1：https://github.com/nlpjoe/2018-CCL-UIIMCS
+    Rank1: https://github.com/nlpjoe/2018-CCL-UIIMCS
     
 1.  第二届搜狐内容识别大赛
 
-    Rank1：https://github.com/zhanzecheng/SOHU_competition
+    Rank1: https://github.com/zhanzecheng/SOHU_competition
     
 1.  科赛 - 百度 PaddlePaddle AI 大赛——智能问答
     
-    Rank3：https://github.com/312shan/rc_tf
+    Rank3: https://github.com/312shan/rc_tf
     
 1.  2018 kaggle quora insincere questions classification 
 
@@ -550,22 +550,49 @@
     
     Rank5: https://github.com/mirzaevinom/data_science_bowl_2018
     
-    
-## 经验文章
-
-1.  介绍featexp 一个帮助理解特征的工具包 http://www.sohu.com/a/273552971_129720
-
-2.  Ask Me Anything session with a Kaggle Grandmaster Vladimir I. Iglovikov 
-    
-    PDF: https://pan.baidu.com/s/1XkFwko_YrI5TfjjIai7ONQ
 
 ## 其它资源列表
 
 1.  数据比赛资讯: https://github.com/iphysresearch/DataSciComp
 
+1.  ApacheCN 的kaggle资料链接: https://github.com/apachecn/kaggle
+
 2.  Kaggle top方案整理: https://github.com/EliotAndres/kaggle-past-solutions
 
 3.  [Data competition Top Solution 数据竞赛Top解决方案开源整理](https://github.com/Smilexuhc/Data-Competition-TopSolution)
+
+1.  介绍featexp 一个帮助理解特征的工具包 http://www.sohu.com/a/273552971_129720
+
+1.  Ask Me Anything session with a Kaggle Grandmaster Vladimir I. Iglovikov 
+
+    PDF: https://pan.baidu.com/s/1XkFwko_YrI5TfjjIai7ONQ
+
+1.  Owen Zhang访谈: Kaggle制胜的秘密 http://t.cn/RBzPcyg
+
+1.  How to Compete for Zillow Prize at Kaggle https://www.datasciencecentral.com/profiles/blogs/how-to-compete-for-zillow-prize-at-kaggle
+
+1.  Profiling Top Kagglers: Martin Henze http://blog.kaggle.com/2018/06/19/tales-from-my-first-year-inside-the-head-of-a-recent-kaggle-addict/
+
+1.  Kaggle数据科学词汇表 http://t.cn/Rdx72Cn
+
+1.  Kaggle比赛优胜方案汇总 http://t.cn/Rdkj3Co
+
+1.  Kaggle比赛实战教程(Pandas, Matplotlib, XGBoost/Colab) http://t.cn/ReIJOX0
+
+1.  http://t.cn/ReIJOXK
+
+1.  Kaggle看照片猜相机比赛心得分享 http://t.cn/Rkz5Q9y 
+
+    pdf:http://t.cn/Rkz5Q9L
+
+1.  Kaggle在线分类广告需求预测比赛优胜方案分享 http://t.cn/RFpQg9O
+
+1.  Kaggle | Winner Interview http://blog.kaggle.com/2018/09/14/pei-lien-chou/
+
+1.  Ask Me Anything session with a Kaggle Grandmaster Vladimir I. Iglovikov http://t.cn/Eww4nnu
+
+1.  2018 NIPS视觉对抗挑战总结 http://t.cn/EAMqw0P
+
     
 ## 大佬的Git
 
@@ -582,4 +609,4 @@
 +   [Smile](https://github.com/Smilexuhc)
 +   [飞龙](https://github.com/wizardforcel)
 +   [SlideLucask](https://github.com/SlideLucask)
-+   [知识星球：Kaggle 数据竞赛免费版](https://t.zsxq.com/IAQvF2F)
++   [知识星球: Kaggle 数据竞赛免费版](https://t.zsxq.com/IAQvF2F)
