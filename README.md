@@ -23,7 +23,7 @@
     
     Baseline 0.644: [CCF2019-discrete-manufacturing/644baseline.py](src/CCF2019-discrete-manufacturing/644baseline.py)
 
-1.  2018科大讯飞AI营销算法大赛
+1.  2018 科大讯飞 AI 营销算法大赛
 
     Rank1: https://zhuanlan.zhihu.com/p/47807544
     
@@ -63,7 +63,7 @@
 
     Rank94: https://github.com/Yangtze121/-IJCAI-18- 
 
-3.  2018腾讯广告算法大赛
+3.  2018 腾讯广告算法大赛
 
     Rank3: https://github.com/DiligentPanda/Tencent_Ads_Algo_2018 
 
@@ -89,13 +89,13 @@
 
     Rank69: https://github.com/BladeCoda/Tencent2018_Final_Phrase_Presto 
     
-3.  2017腾讯广告算法大赛
+3.  2017 腾讯广告算法大赛
 
     Rank14: https://github.com/freelzy/Tencent_Social_Ads
     
     Rank20: https://github.com/shenweichen/Tencent_Social_Ads2017_Mobile_App_pCVR
 
-4.  2018高校大数据挑战赛-快手活跃用户预测
+4.  2018 高校大数据挑战赛-快手活跃用户预测
 
     Rank1: 
     
@@ -115,7 +115,7 @@
     
     Rank20: https://github.com/bigzhao/Kuaishou_2018_rank20th
     
-    Rank28 (初赛 a 榜rank1 b 榜rank2): 
+    Rank28 (初赛 a 榜 rank1 b 榜 rank2): 
     
     +   https://github.com/YangKing0834131/2018-KUAISHOU-TSINGHUA-Top28-Solutions-
     
@@ -127,11 +127,11 @@
 
     Rank9: https://zhuanlan.zhihu.com/p/45141799 
     
-5.  2018 DF风机叶片开裂预警
+5.  2018 DF 风机叶片开裂预警
 
     Rank2: https://github.com/SY575/DF-Early-warning-of-the-wind-power-system 
     
-6.  2018 DF光伏发电量预测
+6.  2018 DF 光伏发电量预测
 
     Rank1: 
     
@@ -139,11 +139,11 @@
 
     +   https://mp.weixin.qq.com/s/Yix0xVp2SiqaAcuS6Q049g 
            
-7.  AI全球挑战者大赛-违约用户风险预测
+7.  AI 全球挑战者大赛-违约用户风险预测
 
     Rank1: https://github.com/chenkkkk/User-loan-risk-prediction 
     
-8.  2016融360-用户贷款风险预测
+8.  2016 融 360-用户贷款风险预测
 
     Rank7: https://github.com/hczheng/Rong360 
     
@@ -160,7 +160,7 @@
     
     Rank6: https://github.com/ZengHaihong/2018_CCF_BDCI_ChinaUnicom_Package_Match_Rank6
 
-8.  2018 CCF-汽车行业用户观点主题及情感识别ASC挑战赛
+8.  2018 CCF-汽车行业用户观点主题及情感识别 ASC 挑战赛
 
     Rank1: https://github.com/yilirin/BDCI_Car_2018
     
@@ -170,7 +170,7 @@
 
     Rank1: https://github.com/drop-out/Tianchi-Wifi-Positioning
     
-9.  2016 CCF-020优惠券使用预测
+9.  2016 CCF-020 优惠券使用预测
 
     Rank1: https://github.com/wepe/O2O-Coupon-Usage-Forecast 
     
@@ -224,7 +224,7 @@
     
     +   https://github.com/pdima/kaggle_2018_data_science_bowl_solution
     
-7.  2018对抗挑战优胜经验分享
+7.  2018 对抗挑战优胜经验分享
 
     +   http://t.cn/RBMaq4y
     
@@ -234,7 +234,7 @@
 
     http://benanne.github.io/2014/04/05/galaxy-zoo.html
     
-9.  Kaggle Home Credit违约风险预测
+9.  Kaggle Home Credit 违约风险预测
 
     Rank1: http://t.cn/RFsoHgv
     
@@ -257,7 +257,7 @@
     
     Rank4: https://github.com/TingNie/CreditForecast
     
-1.  2018 AI Challenger 全球AI挑战赛 - 细粒度用户评论情感分析
+1.  2018 AI Challenger 全球 AI 挑战赛 - 细粒度用户评论情感分析
 
     Rank1: https://github.com/chenghuige/wenzheng
     
@@ -271,11 +271,11 @@
 
     Rank?: https://github.com/zlxy9892/DC_hbc
     
-1.  2018 ATEC 蚂蚁金服NLP智能客服比赛
+1.  2018 ATEC 蚂蚁金服 NLP 智能客服比赛
 
     Rank16: https://github.com/zle1992/atec
     
-1.  2018 ATEC 蚂蚁金服NLP蚂蚁金服金融大脑赛题
+1.  2018 ATEC 蚂蚁金服 NLP 蚂蚁金服金融大脑赛题
 
     Rank18: https://github.com/ziweipolaris/atec2018-nlp
     
@@ -287,7 +287,7 @@
 
     Rank1: https://github.com/ChenglongChen/Kaggle_CrowdFlower
     
-1.  第三届融360天机智能金融算法挑战赛 - 特征挖掘
+1.  第三届融 360 天机智能金融算法挑战赛 - 特征挖掘
 
     Rank1: https://github.com/xSupervisedLearning/Rong360_feature_mining_1st_solution
     
@@ -303,7 +303,7 @@
 
     Rank24: https://github.com/xingyuezhiji/Diabetes
     
-1.  第一届西安交通大学人工智能实践大赛（2018AI实践大赛--图片文字识别）
+1.  第一届西安交通大学人工智能实践大赛（2018AI 实践大赛--图片文字识别）
 
     Rank1: https://github.com/yinchangchang/ocr_densenet
     
@@ -331,7 +331,7 @@
 
     Baseline 0.2049: https://github.com/finlay-liu/kaggle_public/
 
-1.  2018 DC达观-文本智能处理挑战 
+1.  2018 DC 达观-文本智能处理挑战 
 
     Rank1: https://github.com/ShawnyXiao/2018-DC-DataGrand-TextIntelProcess
 
@@ -381,7 +381,7 @@
 
     https://www.kaggle.com/hoonkeng/deep-eda-word-embeddings-sentiment-analysis/notebook
 
-1.  “神策杯”2018高校算法大师赛(关键词提取)
+1.  “神策杯”2018 高校算法大师赛(关键词提取)
 
     Rank1: http://www.dcjingsai.com/common/bbs/topicDetails.html?tid=2382
 
@@ -450,13 +450,13 @@
     
     Rank56: https://github.com/Gary-Deeplearning/TGS-Salt
 
-2.  Kaggle Google地标检索 
+2.  Kaggle Google 地标检索 
 
     Rank1: http://t.cn/R1i7Xiy  
     
     Rank14:  http://t.cn/R1nQriY
 
-3.  Lyft感知挑战赛   
+3.  Lyft 感知挑战赛   
 
     赛题:  http://t.cn/RBtrJcE  
     
@@ -466,7 +466,7 @@
     
     +   http://t.cn/RBJnlug
 
-4.  Kaggle CVPR 2018 WAD视频分割  
+4.  Kaggle CVPR 2018 WAD 视频分割  
 
     Rank2: http://t.cn/Ehp4Ggm
 
@@ -478,11 +478,11 @@
    
     http://t.cn/EZAoZDM
 
-7.  Kaggle植物幼苗图像分类挑战赛   
+7.  Kaggle 植物幼苗图像分类挑战赛   
 
     Rank1: http://t.cn/RBssjf6
 
-8.  Kaggle Airbus Ship Detection Challenge (Kaggle卫星图像船舶检测比赛)   
+8.  Kaggle Airbus Ship Detection Challenge (Kaggle 卫星图像船舶检测比赛)   
 
     Rank8: https://github.com/SeuTao/Kaggle_Airbus2018_8th_code
     
@@ -523,7 +523,7 @@
 
     Rank3: https://github.com/pudae/kaggle-hpa
    
-1.  SpaceNet Challenge Round 4: Off-Nadir Buildings（SpaceNet挑战卫星图片建筑物识别）
+1.  SpaceNet Challenge Round 4: Off-Nadir Buildings（SpaceNet 挑战卫星图片建筑物识别）
 
     RankX: https://github.com/SpaceNetChallenge/SpaceNet_Off_Nadir_Solutions
    
@@ -560,40 +560,40 @@
 
 1.  [DataSciComp 数据比赛资讯](https://github.com/iphysresearch/DataSciComp)
 
-1.  [ApacheCN 的kaggle资料链接](https://github.com/apachecn/kaggle)
+1.  [ApacheCN 的 kaggle 资料链接](https://github.com/apachecn/kaggle)
 
-2.  [Kaggle top方案整理](https://github.com/EliotAndres/kaggle-past-solutions)
+2.  [Kaggle top 方案整理](https://github.com/EliotAndres/kaggle-past-solutions)
 
-3.  [Data competition Top Solution 数据竞赛Top解决方案开源整理](https://github.com/Smilexuhc/Data-Competition-TopSolution)
+3.  [Data competition Top Solution 数据竞赛 Top 解决方案开源整理](https://github.com/Smilexuhc/Data-Competition-TopSolution)
 
-1.  [介绍featexp 一个帮助理解特征的工具包](http://www.sohu.com/a/273552971_129720)
+1.  [介绍 featexp 一个帮助理解特征的工具包](http://www.sohu.com/a/273552971_129720)
 
 1.  [Ask Me Anything session with a Kaggle Grandmaster Vladimir I. Iglovikov](http://t.cn/Eww4nnu) [PDF](https://pan.baidu.com/s/1XkFwko_YrI5TfjjIai7ONQ)
 
-1.  [Owen Zhang访谈: Kaggle制胜的秘密](http://t.cn/RBzPcyg)
+1.  [Owen Zhang 访谈: Kaggle 制胜的秘密](http://t.cn/RBzPcyg)
 
 1.  [How to Compete for Zillow Prize at Kaggle](https://www.datasciencecentral.com/profiles/blogs/how-to-compete-for-zillow-prize-at-kaggle)
 
 1.  [Profiling Top Kagglers: Martin Henze](http://blog.kaggle.com/2018/06/19/tales-from-my-first-year-inside-the-head-of-a-recent-kaggle-addict/)
 
-1.  [Kaggle数据科学词汇表](http://t.cn/Rdx72Cn)
+1.  [Kaggle 数据科学词汇表](http://t.cn/Rdx72Cn)
 
-1.  [Kaggle比赛优胜方案汇总](http://t.cn/Rdkj3Co)
+1.  [Kaggle 比赛优胜方案汇总](http://t.cn/Rdkj3Co)
 
-1.  [Kaggle比赛实战教程(Pandas, Matplotlib, XGBoost/Colab)](http://t.cn/ReIJOX0)
+1.  [Kaggle 比赛实战教程(Pandas, Matplotlib, XGBoost/Colab)](http://t.cn/ReIJOX0)
 
 1.  [llSourcell/kaggle_challenge](http://t.cn/ReIJOXK)
 
-1.  [Kaggle看照片猜相机比赛心得分享](http://t.cn/Rkz5Q9y) [PDF](http://t.cn/Rkz5Q9L)
+1.  [Kaggle 看照片猜相机比赛心得分享](http://t.cn/Rkz5Q9y) [PDF](http://t.cn/Rkz5Q9L)
 
-1.  [Kaggle在线分类广告需求预测比赛优胜方案分享](http://t.cn/RFpQg9O)
+1.  [Kaggle 在线分类广告需求预测比赛优胜方案分享](http://t.cn/RFpQg9O)
 
 1.  [Kaggle | Winner Interview ](http://blog.kaggle.com/2018/09/14/pei-lien-chou/)
 
-1.  [2018 NIPS视觉对抗挑战总结](http://t.cn/EAMqw0P)
+1.  [2018 NIPS 视觉对抗挑战总结](http://t.cn/EAMqw0P)
 
     
-## 大佬的Git
+## 大佬的 Git
 
 1.  植物: https://github.com/plantsgo 
 2.  wepon: https://github.com/wepe 
