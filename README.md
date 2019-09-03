@@ -2,15 +2,29 @@
 
 ## 结构化数据/时间序列
 
+1.  2019 CCF 乘用车细分市场销量预测
+
+    EDA: http://lambda-xmu.club/2018/08/27/2019CCF-Car-Sales-EDA/
+    
+    Baseline 0.488: https://zhuanlan.zhihu.com/p/79940352
+    
+    Baseline 0.511: https://blog.csdn.net/weixin_43593330/article/details/100175414
+    
+1.  2019 CCF 离散制造过程中典型工件的质量符合率预测
+
+    EDA: http://lambda-xmu.club/2018/08/25/2019CCF-Work-Piece-EDA/
+
+    Baseline 0.6777: https://github.com/destiny19960207/CCF_BDCI2019_discrete-manufacturing
+
 1.  2018科大讯飞AI营销算法大赛
 
-    Rank1：https://zhuanlan.zhihu.com/p/47807544
+    Rank1: https://zhuanlan.zhihu.com/p/47807544
 
 2.  2018 IJCAI 阿里妈妈搜索广告转化预测
 
-    Rank1：https://github.com/plantsgo/ijcai-2018 
+    Rank1: https://github.com/plantsgo/ijcai-2018 
 
-    Rank2：
+    Rank2: 
     
     +   https://github.com/YouChouNoBB/ijcai-18-top2-single-mole-solution 
 
@@ -66,41 +80,41 @@
 
 4.  2018JDATA 用户购买时间预测
 
-    Rank9：https://zhuanlan.zhihu.com/p/45141799 
+    Rank9: https://zhuanlan.zhihu.com/p/45141799 
     
 5.  2018 DF风机叶片开裂预警
 
-    Rank2：https://github.com/SY575/DF-Early-warning-of-the-wind-power-system 
+    Rank2: https://github.com/SY575/DF-Early-warning-of-the-wind-power-system 
     
 6.  2018 DF光伏发电量预测
 
-    Rank1：https://zhuanlan.zhihu.com/p/44755488?utm_source=qq&utm_medium=social&utm_oi=623925402599559168 
+    Rank1: https://zhuanlan.zhihu.com/p/44755488?utm_source=qq&utm_medium=social&utm_oi=623925402599559168 
 
     https://mp.weixin.qq.com/s/Yix0xVp2SiqaAcuS6Q049g 
            
 7.  AI全球挑战者大赛-违约用户风险预测
 
-    Rank1：https://github.com/chenkkkk/User-loan-risk-prediction 
+    Rank1: https://github.com/chenkkkk/User-loan-risk-prediction 
     
 8.  2016融360-用户贷款风险预测
 
-    Rank7：https://github.com/hczheng/Rong360 
+    Rank7: https://github.com/hczheng/Rong360 
     
 9.  2016 CCF-020优惠券使用预测
 
     Rank1: https://github.com/wepe/O2O-Coupon-Usage-Forecast 
     
-10. 2016 ccf-农产品价格预测
+0.  2016 ccf-农产品价格预测
 
     Rank2: https://github.com/xing89qs/CCF_Product 
 
     Rank35: https://github.com/wqlin/ccf-price-prediction 
  
-11. 2016 ccf-客户用电异常
+1.  2016 ccf-客户用电异常
 
     Rank4: https://github.com/AbnerYang/2016CCF-StateGrid 
     
-12. 2016 ccf-搜狗的用户画像比赛
+2.  2016 ccf-搜狗的用户画像比赛
 
     Rank1: https://github.com/hengchao0248/ccf2016_sougou 
 
@@ -116,21 +130,31 @@
 
     +   https://github.com/coderSkyChen/2016CCF_BDCI_Sougou 
            
-13. 2016 ccf-联通的用户轨迹
+3.  2016 ccf-联通的用户轨迹
 
     RankX: https://github.com/xuguanggen/2016CCF-unicom 
     
-14. 2016 ccf-Human or Robots
+4.  2016 ccf-Human or Robots
 
     Rank6: https://github.com/pickou/ccf_human_or_robot 
     
-15. 菜鸟-需求预测与分仓规划
+5.  菜鸟-需求预测与分仓规划
 
     Rank6:  https://github.com/wepe/CaiNiao-DemandForecast-StoragePlaning 
 
     Rank10: https://github.com/xing89qs/TianChi_CaiNiao_Season2 
     
 ## NLP
+
+1.  2019 CCF 互联网新闻情感分析
+
+    Baseline 0.801: https://github.com/finlay-liu/kaggle_public
+    
+    Baseline 0.803: https://github.com/guoday/CCF-BDCI-Sentiment-Analysis-Baseline
+
+1.  2019 CCF 互联网金融新实体发现
+
+    Baseline 0.2049: https://github.com/finlay-liu/kaggle_public/
 
 1.  智能客服问题相似度算法设计——第三届魔镜杯大赛
 
@@ -145,72 +169,93 @@
 
 ## CV
 
-1. Kaggle-TGS
 
-   Rank1: http://t.cn/EzkDlOC   
-   Rank9: http://t.cn/EznzvYv  
-   Rank11:https://github.com/iasawseen/Kaggle-TGS-salt-solution
-   Rank14:https://github.com/lRomul/argus-tgs-salt
-   Rank15:https://github.com/adam9500370/Kaggle-TGS
-   Rank22: http://t.cn/EzYkR6i  
-   Rank56 https://github.com/Gary-Deeplearning/TGS-Salt
+1.  2019 CCF 视频版权检测
 
-2. Kaggle Google地标检索 
+    Baseline 0.0001: https://github.com/finlay-liu/kaggle_public
 
-   Rank1: http://t.cn/R1i7Xiy  
-   Rank14： http://t.cn/R1nQriY
+1.  Kaggle-TGS
 
-3. Lyft感知挑战赛   
+    Rank1: http://t.cn/EzkDlOC   
+    Rank9: http://t.cn/EznzvYv  
+    Rank11:https://github.com/iasawseen/Kaggle-TGS-salt-solution
+    Rank14:https://github.com/lRomul/argus-tgs-salt
+    Rank15:https://github.com/adam9500370/Kaggle-TGS
+    Rank22: http://t.cn/EzYkR6i  
+    Rank56 https://github.com/Gary-Deeplearning/TGS-Salt
 
-      赛题： http://t.cn/RBtrJcE  
-      Rank4： http://t.cn/RBtrMdw  
-      ​      http://t.cn/RBJnlug
+2.  Kaggle Google地标检索 
 
-4. (Kaggle)CVPR 2018 WAD视频分割  
+    Rank1: http://t.cn/R1i7Xiy  
+    
+    Rank14:  http://t.cn/R1nQriY
 
-   Rank2: http://t.cn/Ehp4Ggm
+3.  Lyft感知挑战赛   
 
-5. Kaggle Google AI Open Images  
+    赛题:  http://t.cn/RBtrJcE  
+    
+    Rank4:
+        
+    +   http://t.cn/RBtrMdw  
+    
+    +   http://t.cn/RBJnlug
+
+4.  (Kaggle)CVPR 2018 WAD视频分割  
+
+    Rank2: http://t.cn/Ehp4Ggm
+
+5.  Kaggle Google AI Open Images  
 
     Rank15: http://t.cn/RF1jnis
 
-6. Quick, Draw! Kaggle Competition Starter Pack    
-   http://t.cn/EZAoZDM
-
-7. Kaggle植物幼苗图像分类挑战赛   
-
-   Rank1: http://t.cn/RBssjf6
-
-8. Kaggle Airbus Ship Detection Challenge (Kaggle卫星图像船舶检测比赛)   
-
-   Rank8: https://github.com/SeuTao/Kaggle_Airbus2018_8th_code
-   Rank21:https://github.com/pascal1129/kaggle_airbus_ship_detection
-
-
-9. kaggle RSNA Pneumonia Detection
-
-   Rank1:https://github.com/i-pan/kaggle-rsna18
-   Rank2:https://github.com/SeuTao/Kaggle_TGS2018_4th_solution
-   Rank3:https://github.com/pmcheng/rsna-pneumonia
-   Rank6:https://github.com/pfnet-research/pfneumonia
-   Rank10:https://github.com/alessonscap/rsna-challenge-2018
+6.  Quick, Draw! Kaggle Competition Starter Pack    
    
-10. kaggle Carvana Image Masking Challenge
+    http://t.cn/EZAoZDM
 
-   Rank1:https://github.com/asanakoy/kaggle_carvana_segmentation
-   Rank3:https://github.com/lyakaap/Kaggle-Carvana-3rd-place-solution
-    
-11. kaggle Statoil/C-CORE Iceberg Classifier Challenge
+7.  Kaggle植物幼苗图像分类挑战赛   
 
-   Rank4: https://github.com/asydorchuk/kaggle/blob/master/statoil/README.md
+    Rank1: http://t.cn/RBssjf6
+
+8.  Kaggle Airbus Ship Detection Challenge (Kaggle卫星图像船舶检测比赛)   
+
+    Rank8: https://github.com/SeuTao/Kaggle_Airbus2018_8th_code
     
-12. kaggle 2018 Data Science Bowl
+    Rank21: https://github.com/pascal1129/kaggle_airbus_ship_detection
+
+
+9.  kaggle RSNA Pneumonia Detection
+
+    Rank1: https://github.com/i-pan/kaggle-rsna18
     
-   Rank1: https://github.com/selimsef/dsb2018_topcoders
-   Rank2: https://github.com/jacobkie/2018DSB
-   Rank3: https://github.com/Lopezurrutia/DSB_2018
-   Rank4: https://github.com/pdima/kaggle_2018_data_science_bowl_solution
-   Rank5: https://github.com/mirzaevinom/data_science_bowl_2018
+    Rank2: https://github.com/SeuTao/Kaggle_TGS2018_4th_solution
+    
+    Rank3: https://github.com/pmcheng/rsna-pneumonia
+    
+    Rank6: https://github.com/pfnet-research/pfneumonia
+    
+    Rank10: https://github.com/alessonscap/rsna-challenge-2018
+   
+0.  kaggle Carvana Image Masking Challenge
+
+    Rank1:https://github.com/asanakoy/kaggle_carvana_segmentation
+    
+    Rank3:https://github.com/lyakaap/Kaggle-Carvana-3rd-place-solution
+    
+1.  kaggle Statoil/C-CORE Iceberg Classifier Challenge
+
+    Rank4: https://github.com/asydorchuk/kaggle/blob/master/statoil/README.md
+    
+2.  kaggle 2018 Data Science Bowl
+    
+    Rank1: https://github.com/selimsef/dsb2018_topcoders
+    
+    Rank2: https://github.com/jacobkie/2018DSB
+    
+    Rank3: https://github.com/Lopezurrutia/DSB_2018
+    
+    Rank4: https://github.com/pdima/kaggle_2018_data_science_bowl_solution
+    
+    Rank5: https://github.com/mirzaevinom/data_science_bowl_2018
     
     
 ## 经验文章
@@ -219,25 +264,25 @@
 
 2.  Ask Me Anything session with a Kaggle Grandmaster Vladimir I. Iglovikov 
     
-    PDF：https://pan.baidu.com/s/1XkFwko_YrI5TfjjIai7ONQ
+    PDF: https://pan.baidu.com/s/1XkFwko_YrI5TfjjIai7ONQ
 
 ## 其它资源列表
 
-1.  数据比赛资讯：https://github.com/iphysresearch/DataSciComp
+1.  数据比赛资讯: https://github.com/iphysresearch/DataSciComp
 
-2.  Kaggle top方案整理：https://github.com/EliotAndres/kaggle-past-solutions
+2.  Kaggle top方案整理: https://github.com/EliotAndres/kaggle-past-solutions
 
 3.  [Data competition Top Solution 数据竞赛Top解决方案开源整理](https://github.com/Smilexuhc/Data-Competition-TopSolution)
     
 ## 大佬的Git
 
-1.  植物：https://github.com/plantsgo 
-2.  wepon：https://github.com/wepe 
-3.  Snake：https://github.com/luoda888 
-4.  Drop-out：https://github.com/drop-out 
-5.  金老师的知乎：https://zhuanlan.zhihu.com/jlbookworm 
-6.  渣大：https://github.com/nzc 
-7.  郭大：https://github.com/guoday 
+1.  植物: https://github.com/plantsgo 
+2.  wepon: https://github.com/wepe 
+3.  Snake: https://github.com/luoda888 
+4.  Drop-out: https://github.com/drop-out 
+5.  金老师的知乎: https://zhuanlan.zhihu.com/jlbookworm 
+6.  渣大: https://github.com/nzc 
+7.  郭大: https://github.com/guoday 
 
 ## 贡献者
 
