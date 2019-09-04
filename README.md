@@ -19,7 +19,9 @@
 
     EDA: http://lambda-xmu.club/2018/08/25/2019CCF-Work-Piece-EDA/
 
-    Baseline 0.6777: https://github.com/destiny19960207/CCF_BDCI2019_discrete-manufacturing
+    Baseline 0.679: [CCF2019-discrete-manufacturing/644baseline.py](src/CCF2019-discrete-manufacturing/679baseline.py)
+    
+    Baseline 0.678: https://github.com/destiny19960207/CCF_BDCI2019_discrete-manufacturing
     
     Baseline 0.644: [CCF2019-discrete-manufacturing/644baseline.py](src/CCF2019-discrete-manufacturing/644baseline.py)
 
