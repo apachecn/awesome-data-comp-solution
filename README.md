@@ -609,4 +609,5 @@
 +   [Smile](https://github.com/Smilexuhc)
 +   [飞龙](https://github.com/wizardforcel)
 +   [SlideLucask](https://github.com/SlideLucask)
++   [知识星球: Kaggle 数据竞赛](https://t.zsxq.com/uRBUrBy)
 +   [知识星球: Kaggle 数据竞赛免费版](https://t.zsxq.com/IAQvF2F)
