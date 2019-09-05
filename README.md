@@ -17,9 +17,11 @@
     
 1.  2019 CCF 离散制造过程中典型工件的质量符合率预测
 
-    EDA: http://lambda-xmu.club/2018/08/25/2019CCF-Work-Piece-EDA/
+    EDA1: http://lambda-xmu.club/2018/08/25/2019CCF-Work-Piece-EDA/
+    
+    EDA2: http://lambda-xmu.club/2018/09/04/2019CCF-Work-Piece-EDA-Part2/
 
-    Baseline 0.6777: https://github.com/destiny19960207/CCF_BDCI2019_discrete-manufacturing
+    Baseline 0.678: https://github.com/destiny19960207/CCF_BDCI2019_discrete-manufacturing
     
     Baseline 0.644: [CCF2019-discrete-manufacturing/644baseline.py](src/CCF2019-discrete-manufacturing/644baseline.py)
 
