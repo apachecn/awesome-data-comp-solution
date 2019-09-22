@@ -7,6 +7,10 @@
 
 ## 结构化数据/时间序列
 
+1.  2019 腾讯广告算法大赛
+
+    Rank1: https://github.com/guoday/Tencent2019_Preliminary_Rank1st
+
 1.  2019 CCF 乘用车细分市场销量预测
 
     EDA: http://lambda-xmu.club/2018/08/27/2019CCF-Car-Sales-EDA/
